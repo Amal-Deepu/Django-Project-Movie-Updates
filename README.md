@@ -37,7 +37,7 @@ media/
 
 1️⃣ Clone the repository
 
-```bash
+
 git clone https://github.com/Amal-Deepu/Django-Project-Movie-Updates.git
 cd Django-Project-Movie-Updates
 
