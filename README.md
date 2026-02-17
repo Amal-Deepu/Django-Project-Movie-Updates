@@ -39,6 +39,7 @@ media/
 
 
 git clone https://github.com/Amal-Deepu/Django-Project-Movie-Updates.git
+
 cd Django-Project-Movie-Updates
 
 2️⃣ Create virtual environment
