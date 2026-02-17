@@ -29,8 +29,11 @@ A full-stack Django web application where users can register, add movies, write 
 ## 📁 Project Structure
 
 manage.py
+
 Movieproject/
+
 templates/
+
 media/
 
 ## ⚙️ Installation & Setup
