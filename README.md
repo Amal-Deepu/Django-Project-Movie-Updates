@@ -62,4 +62,14 @@ python manage.py migrate
 
 python manage.py runserver
 
+---
+
+👨‍💻 Author
+
+Amal Deepu
+
+Software Developer | Machine Learning Enthusiast
+
+GitHub: https://github.com/Amal-Deepu
+
 
